@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color:skyblue;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Navigation Styles */
+  nav {
+    background-color:steelblue;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* Main Content Styles */
+  main {
+    padding: 30px;
+  }
+  
+  section {
+    margin-bottom: 10px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: steelblue;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
